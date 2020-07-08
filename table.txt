@@ -1,0 +1,18 @@
+
+-----------------------------------------        Ô¤²â·ÖÎö±í----------------------------------------
+	{	}	if	then	else	(	)	while	ID	=	>	<	>=	<=	==	+	-	*	/	NUM	;	$
+program	0
+stmt	4	1	2	3
+compoundstmt	5
+stmts	6	7	6	6	6
+ifstmt	8
+whilestmt	9
+assgstmt	10
+boolexpr	11	11	11
+boolop	13	12	15	14	16
+arithexpr	17	17	17
+arithexprprime	20	20	20	20	20	20	18	19	20
+multexpr	21	21	21
+multexprprime	24	24	24	24	24	24	24	24	22	23	24
+simpleexpr	27	25	26
+
